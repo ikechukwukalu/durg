@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://preview.colorlib.com/theme/personal" target="_blank">Personal - HTML</a>
+  <a href="https://preview.colorlib.com/theme/durg" target="_blank">Durg - HTML</a>
 </p>
 
 <p align="center">
-  <a href="https://templates.provirtcomm.com/personal" target="_blank">Personal - REACT</a>
+  <a href="https://templates.provirtcomm.com/durg" target="_blank">Durg - REACT</a>
 </p>
 
 <p align="center">

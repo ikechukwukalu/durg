@@ -22,8 +22,6 @@ import Contact from './pages/contact.jsx';
 import Review from './pages/review.jsx';
 import FAQ from './pages/faq.jsx';
 
-
-
 function RouteChange () {
   const history = useHistory();
 
